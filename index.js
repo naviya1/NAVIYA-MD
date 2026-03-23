@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `NAVIYA-MD connected ✅\n\nPREFIX: ${prefix}`;
       await danuwa.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true` },
+        image: { url: `https://github.com/naviya1/NAVIYA-MD/blob/main/images/Anime%20character%20with%20red%20accents%20(1).png` },
         caption: up
       });
 
